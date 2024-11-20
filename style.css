@@ -1,22 +1,16 @@
-* {
+body {
     background: white;
     }
-h1 {
-    color: green;
-    }
-    label { 
-        color: purple; 
+    .titulo_del_producto {
+        color: green;
         }
-    a {
+    .link_del_producto {
         color: purple;
+        text-decoration: underline;
         }
-    p {
-        text-decoration: 
-        underline;
-        }
-    p {
+    .descripcion_del_producto {
         color: red;
         }
-    img {
+    #imagen_del_producto {
         width: 500px;
         }
