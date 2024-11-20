@@ -1,0 +1,22 @@
+* {
+    background: black;
+    }
+h1 {
+    color: green;
+    }
+    label { 
+        color: purple; 
+        }
+    a {
+        color: purple;
+        }
+    p {
+        text-decoration: 
+        underline;
+        }
+    p {
+        color: red;
+        }
+    img {
+        width: 500px;
+        }
